@@ -1,0 +1,24 @@
+[submodule "extern/CommonLibSSE-NG"]
+	path = extern/CommonLibSSE-NG
+	url = https://github.com/alandtse/CommonLibSSE-NG.git
+[submodule "extern/spdlog"]
+	path = extern/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "extern/json"]
+	path = extern/json
+	url = https://github.com/nlohmann/json.git
+[submodule "extern/xbyak"]
+	path = extern/xbyak
+	url = https://github.com/herumi/xbyak.git
+[submodule "extern/rapidcsv"]
+	path = extern/rapidcsv
+	url = https://github.com/d99kris/rapidcsv.git
+[submodule "extern/DirectXTK"]
+	path = extern/DirectXTK
+	url = https://github.com/microsoft/DirectXTK.git
+[submodule "extern/DirectXMath"]
+	path = extern/DirectXMath
+	url = https://github.com/microsoft/DirectXMath.git
+[submodule "extern/SimpleIni"]
+	path = extern/SimpleIni
+	url = https://github.com/brofield/simpleini.git
